@@ -47,13 +47,11 @@ return (
 
 
 {/* Hero */}
-{/* Hero */}
+
 <section className="mt-16 grid gap-12 md:grid-cols-2 items-center">
   {/* LEFT SIDE – TEXT */}
   <div className="space-y-6">
-    <span className="inline-block rounded-full bg-muted px-4 py-1 text-sm">
-      👋 Available for Internships & Freelance
-    </span>
+    
 
     <h1>
       Hi, I’m <span className="text-primary">Kartik Singh</span>
@@ -102,7 +100,7 @@ return (
     <div className="rounded-2xl border bg-card p-6">
       <h4 className="font-semibold">Full Stack Developer Intern</h4>
       <p className="text-sm text-muted-foreground">
-        Logic Zephyr · Oct 2025 – Present
+        Logic Zephyr · Oct 2025 – Dec 2025
       </p>
       <p className="mt-2 text-sm">
         Working on scalable React + Node.js applications, API development,
