@@ -100,7 +100,7 @@ return (
     <div className="rounded-2xl border bg-card p-6">
       <h4 className="font-semibold">Full Stack Developer Intern</h4>
       <p className="text-sm text-muted-foreground">
-        Logic Zephyr · Oct 2025 – Dec 2025
+        Logic Zephyr · Oct 2025 – Jan 2026
       </p>
       <p className="mt-2 text-sm">
         Working on scalable React + Node.js applications, API development,
